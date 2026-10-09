@@ -1,0 +1,31 @@
+{
+  "files.watcherExclude": {
+    "**/routeTree.gen.ts": true
+  },
+  "search.exclude": {
+    "**/routeTree.gen.ts": true
+  },
+  "files.readonlyInclude": {
+    "**/routeTree.gen.ts": true
+  },
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#00bfff",
+    "editorBracketHighlight.foreground2": "#7b68ee",
+    "editorBracketHighlight.foreground3": "#c71585",
+    "editorBracketHighlight.foreground4": "#ffa500",
+    "editorBracketHighlight.foreground5": "#adff2f",
+    "editorBracketHighlight.foreground6": "#20b2aa",
+    "editorBracketHighlight.unexpectedBracket.foreground": "#ff0000",
+    "activityBar.background": "#A02C18",
+    "titleBar.activeBackground": "#DE3F24",
+    "titleBar.activeForeground": "#FEF9F9",
+    "titleBar.inactiveBackground": "#A02C18",
+    "titleBar.inactiveForeground": "#FEF9F9",
+    "statusBar.background": "#A02C18",
+    "statusBar.foreground": "#FEF9F9",
+    "statusBar.debuggingBackground": "#A02C18",
+    "statusBar.debuggingForeground": "#FEF9F9",
+    "statusBar.noFolderBackground": "#A02C18",
+    "statusBar.noFolderForeground": "#FEF9F9"
+  }
+}
