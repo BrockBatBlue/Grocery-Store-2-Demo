@@ -5,10 +5,10 @@ import HeroSection from '#/components/shadcn-space/blocks/hero-03/hero.tsx'
 const HeroPage = () => {
   const navigationData: NavLinkItem[] = [
     { title: 'Home', href: '#', isActive: true },
-    { title: 'Properties', href: '#', isActive: false },
-    { title: 'Blog', href: '#', isActive: false },
-    { title: 'Contact', href: '#', isActive: false },
-    { title: 'Docs', href: '#', isActive: false },
+    { title: 'Contact', href: '/#contact', isActive: false },
+    { title: 'About', href: '/#about', isActive: false },
+    { title: 'Departments', href: '/#departments', isActive: false },
+    { title: 'Our Weekly Catalogue', href: '#', isActive: false },
   ]
   return (
     <>
